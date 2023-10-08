@@ -46,17 +46,17 @@ Here are some ideas to get you started:
 <img align="right" width="auto" height="230" src="https://static.vecteezy.com/system/resources/previews/019/153/003/original/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png">
 
 
-- 🎓 Graduate in Web Development and passionate about marketing and design.
+- 🎓 Graduate in Web Development with a strong passion for marketing and design.
 
-- 💼 Actively seeking job opportunities in Web Development and related fields.
+- 💼 Actively seeking job opportunities in the field of Web Development and related areas.
 
-- 🔭 I’m currently working on [Guesser](https://github.com/javieraragones/guesser).
+- 🔭 Currently working on the project [Guesser](https://github.com/javieraragones/guesser).
 
-- 🌱 I’m currently learning **React**.
+- 🌱 Actively learning and exploring **React**.
 
-- 👨‍💻 All of my projects are available at [My Personal Web](https://javieraragones.github.io/portfolio/).
+- 👨‍💻 You can explore all of my projects on My Personal Website [My Personal Web](https://javieraragones.github.io/portfolio/).
 
-- 📫 How to reach me [Email](mailto:javieraragonesgutierrez@gmail.com).
+- 📫 Feel free to reach out to me via [Email](mailto:javieraragonesgutierrez@gmail.com).
 
 
 # 💻 Skills
