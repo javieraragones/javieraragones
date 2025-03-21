@@ -31,12 +31,11 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/javieraragonesgutierrez/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="javieraragonesgutierrez"/></a>
-<a href = "mailto:javieraragonesgutierrez@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@javieraragonesgutierrez"  /></a>
-  <a href = "https://twitter.com/jaragonesdev" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@jaragonesdev"  /></a>
-<a href = "https://codepen.io/jaragones" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="@jaragones"  /></a>
-<a href = "https://replit.com/@javieraragones" target="blank"><img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="@javieraragones"  /></a>
-  </p>
+   <a href="https://www.linkedin.com/in/javieraragonesgutierrez/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="javieraragonesgutierrez"/></a>
+   <a href = "https://twitter.com/jaragonesdev" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@jaragonesdev"  /></a>
+   <a href = "https://codepen.io/jaragones" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="@jaragones"  /></a>
+   <a href = "https://replit.com/@javieraragones" target="blank"><img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="@javieraragones"  /></a>
+</p>
 <br>
 
 <!--Intro start-->
